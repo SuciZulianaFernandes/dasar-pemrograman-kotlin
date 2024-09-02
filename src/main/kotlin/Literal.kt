@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     var boolLiteral = true
     println("intLiteral = " + intLiteral)
     println("doubleLiteral = " + doubleLiteral)
-    println("stringLiteral = " + stringLiteral)
+    println("steingLiterak + " + stringLiteral)
     println("charLiteral = " + charLiteral)
-    println("boolLiteral = " + boolLiteral)
+    println("boolLkiteral = " +boolLiteral)
 }
