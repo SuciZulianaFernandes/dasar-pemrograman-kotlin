@@ -4,5 +4,5 @@ fun main(args: Array<String>) {
         println("varBool Bernilai " + varBool)
     var varInt : Int = 1
    // if (varInt)
-        println("varIntbernilai " + varInt)
+        println("varInt bernilai " + varInt)
 }
